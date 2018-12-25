@@ -1,0 +1,7 @@
+{
+  "name": "InterVeiwTask",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
